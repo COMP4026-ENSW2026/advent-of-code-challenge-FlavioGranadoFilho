@@ -1,4 +1,4 @@
-with open("input.txt", "r") as f:
+with open("sample.in", "r") as f:
     data = f.read()
 
 visited = [[False] * 1000 for i in range(1000)]
