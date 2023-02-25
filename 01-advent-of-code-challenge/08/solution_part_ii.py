@@ -1,4 +1,4 @@
-with open("input.txt", "r") as f:
+with open("sample.in", "r") as f:
     data = f.read()
 
 data = [list(map(int, l)) for l in data.split("\n")]
