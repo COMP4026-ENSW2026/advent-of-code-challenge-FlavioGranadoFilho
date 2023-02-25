@@ -1,5 +1,3 @@
-from string import ascii_lowercase, ascii_uppercase
-
 with open("input.txt", "r") as f:
     data = f.read()
 
