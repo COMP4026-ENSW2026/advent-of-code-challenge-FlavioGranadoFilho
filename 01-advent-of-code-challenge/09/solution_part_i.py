@@ -1,8 +1,4 @@
-from collections import defaultdict
-import sys
-
-
-with open("input.txt", "r") as f:
+with open("sample.in", "r") as f:
     data = f.read()
 
 cmax = 0
