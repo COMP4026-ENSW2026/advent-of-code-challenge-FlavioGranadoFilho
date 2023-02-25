@@ -1,7 +1,3 @@
-from collections import defaultdict
-import sys
-
-
 with open("sample.in", "r") as f:
     data = f.read()
 
